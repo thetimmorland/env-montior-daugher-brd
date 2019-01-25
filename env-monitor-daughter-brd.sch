@@ -28,13 +28,14 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:env-monitor-daughter-brd-cache
 EELAYER 25 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
+Title "Evironment Monitor Daughter Board"
+Date "2019-01-25"
 Rev ""
 Comp ""
 Comment1 ""
